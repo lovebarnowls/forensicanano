@@ -1,11 +1,6 @@
-By now you know that Occam's computer is the most insecure in the world.
-So Occam has employed a trick to write another message back to his friend.
-The message file is found in:
-/home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
+Encode the text of the file found in the location below in base64, and provide the encoded text.
 
-What is the message?
-
-Hint: what are equal signs typical of?
+/home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/q5.txt
 
 ANSWER: <Type answer here>
 
