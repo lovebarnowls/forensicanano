@@ -1,7 +1,7 @@
-Occam's wife has played a prank on Occam and saved a note on his computer in:
-/home/occamrazor/Desktop/dir1/dir2/q3.txt
+Decode the text found in the following location (base64):
 
-What is her message?
+/home/pythagoras/Desktop/triangle/sin/cos/tan/q3.txt
+
 
 ANSWER: <Type answer here>
 
