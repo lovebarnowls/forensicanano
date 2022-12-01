@@ -1,8 +1,8 @@
 Congrats for making it to the end. One last question.
 
-What is the hidden message found in this folder?
+Decrypt the text found in this document.
 
-
+/home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/cotan/cosinerule/q8.txt
 
 ANSWER: <Type answer here>
 
