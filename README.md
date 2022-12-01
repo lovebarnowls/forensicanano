@@ -1,7 +1,7 @@
 
 ## Customisation for Cybertaipan
 
-ForensicA Image for Cybertaipan practice.
+ForensicAnano Image for Cybertaipan practice.
 Only has 8 Forensic Questions involving BASIC crytography (Files forensic1.txt to forensic8.txt), hence the term 'nano'
 Forensic9.txt contains answers
 
