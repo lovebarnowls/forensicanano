@@ -1,7 +1,7 @@
-Occam's friend has replied, using a different code.
-/home/occamrazor/Desktop/dir1/dir2/dir3/q6.txt
+Decode the text found here:
+/home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/cotan/q6.txt
 
-What is the message?
+(Hint: There are other ways to encrypt text other than base64)
 
 ANSWER: <Type answer here>
 
